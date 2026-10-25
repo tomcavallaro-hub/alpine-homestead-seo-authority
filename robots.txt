@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tomcavallaro-hub.github.io/alpine-homestead-seo-authority/sitemap.xml
